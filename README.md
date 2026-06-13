@@ -11,7 +11,7 @@ The platform provides a REST API that implements a progressive puzzle with four 
 
 - **Layer 1**: Fetch the full dataset efficiently and prove byte-level integrity (`content_hash`)
 - **Layer 2**: Decrypt the dataset using a key issued by the platform (`decrypted_hash`)
-- **Layer 3**: Extract a hidden alphabetic string (`transcript`)-->"Correct!"
+- **Layer 3**: Extract a hidden alphabetic string (`transcript`)
 - **Layer 4**: Provide interesting analysis of the data (`analysis`)
 
 ## Repository Structure
@@ -48,3 +48,4 @@ Containerize the solution (Docker)
 
 Repository URL submitted (as per instructions):
 https://github.com/vidhya3142/software_engineer_assesment.git
+

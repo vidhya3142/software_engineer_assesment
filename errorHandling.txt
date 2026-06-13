@@ -1,0 +1,6 @@
+## Error Handling
+
+- 401 Unauthorized
+- 403 Assessment window expired
+- 429 Rate limited
+- Retry handling

@@ -1,0 +1,11 @@
+## Discovery Process
+
+1. Verified health endpoint.
+2. Enumerated available API endpoints.
+3. Identified dataset retrieval endpoint.
+4. Retrieved paginated dataset.
+5. Verified integrity hashes.
+6. Obtained decryption key.
+7. Decrypted records.
+8. Extracted hidden transcript.
+9. Submitted Layer 1–4 responses.
